@@ -16,5 +16,6 @@ taxonomies = [
 [extra]
 after_dark_menu = [
     {name = "Blog", url = "$BASE_URL/"},
+    {name = "My project", url = "$BASE_URL/test-repo/index.html"},
 ]
 after_dark_title = "The sharings of a gallus gallus domesticus 🐔"
