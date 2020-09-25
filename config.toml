@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://test-chicken.github.io"
+base_url = "https://www.kipriako-kotopoulo.com"
 
 build_search_index = false
 compile_sass = true
