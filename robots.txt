@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://www.kipriako-kotopoulo.com/sitemap.xml
