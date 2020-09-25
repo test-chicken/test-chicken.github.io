@@ -1,0 +1,20 @@
+# The URL the site will be built for
+base_url = "https://test-chicken.github.io"
+
+build_search_index = false
+compile_sass = true
+default_language = "en"
+generate_rss = true
+highlight_code = true
+highlight_theme = "monokai"
+theme = "after-dark"
+taxonomies = [
+    {name = "categories", rss = true },
+    {name = "tags", rss = true },
+]
+
+[extra]
+after_dark_menu = [
+    {name = "Blog", url = "$BASE_URL/"},
+]
+after_dark_title = "The sharings of a gallus gallus domesticus 🐔"
